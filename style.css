@@ -1,25 +1,119 @@
-.row{
-    font-size: large;
-    color: blueviolet;
+.titleRow{
+  display:flex;
+  height: 200px;
 }
-.Trivia{
-    width: 1000px;
-    border: 15px lightgoldenrodyellow;
-    padding: 50px;
-    background-color: palegreen;
-    float: right;
-    color: darkslateblue;
-    
+
+.c{
+  background-color: rgb(19, 19, 104);
+  color: yellow;
+  width: 25%;
+  
 }
-/* .leftTrivia{
-    float: left;
-} */
-.rightTrivia{
-    float: right;
+
+.ca{
+  height: 50%;
+  font-size: large;
 }
-.movietitle{
-    text-transform: capitalize;
+
+.cb{
+  height: 50%;
+  font-size: large;
 }
-.rating{
-    color: darkred;
+.a{
+  background-color: rgb(19, 19, 104);
+  font-size: x-large;
+  width: 50%;
+  color: yellow;
+}
+
+.b{
+  color: yellow;
+  background-color: rgb(19, 19, 104);
+  width: 25%;
+}
+
+.ba{
+  height: 50%;
+  font-size: large;
+
+}
+
+.bb{
+  height: 50%;
+  font-size: large;
+}
+
+.secondRow{
+  display:flex;
+}
+
+.d{
+  width: 25%;
+  
+}
+.da img{
+  width: 100%;
+  height: 100%;
+}
+.e{
+  width: 75%;
+  color: black;
+  
+
+}
+
+.ea{
+  height: 25%;
+  background-color: rgb(19, 19, 104);
+  font-size: large;
+  color: yellow;
+}
+
+.eb{
+  height: 25%;
+  background-color: rgb(19, 19, 104);
+  font-size: large;
+  color: yellow;
+}
+
+.ec{
+  height: 25%;
+  background-color: rgb(19, 19, 104);
+  font-size: large;
+  color: yellow;
+}
+
+.ed{
+  height: 25%;
+  display: flex;
+  background-color:rgb(19, 19, 104);
+  font-size: large;
+  color: yellow;
+}
+
+.eda{
+  width: 50%;
+}
+.edb{
+  width: 50%;
+}
+
+.navbar {
+  background-color: grey;
+  padding: 5px 5px 5px 5px;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.searchbar {
+  padding: 5px 5px 5px 5px;
+  
 }

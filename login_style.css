@@ -1,0 +1,53 @@
+
+/* 
+.a{
+    display: flex;
+}
+.b , .c{
+    width: 20%;
+    display: flex;
+    padding: 10px;
+    background-color: rgb(23, 23, 94);
+    color: white;
+}
+
+
+.e{
+    background-color:  rgb(23, 23, 94);
+    padding: 20px;
+    width: 40%;
+} */
+
+/* .f{
+        
+        
+        
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        
+        margin: auto;
+    
+} */
+.container{
+  
+  background-color: lightblue;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 40%;
+  left: 43%;
+  margin: -50px 0 0 -50px;
+  
+    
+}
+
+.a , .b{
+    display: flex;
+    
+    padding: 10px;
+}
+
+
