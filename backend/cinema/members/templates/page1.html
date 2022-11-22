@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- <link rel="stylesheet" href="style1.css"> -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie page</title>
+</head>
+<body>
+    <div>
+        <form>
+            <div class="input-group">
+                <input name="q" type="text" placeholder="Search" class="form-control form-control-lg" />
+                <div class="input-group-append">
+                    <button class="btn btn-dark btn-lg">Search</button>
+                </div>
+            </div>
+        </form>
+
+
+    </div>
+
+    {% if user.is_authenticated %}
+<div class="alert alert-success" role="alert">
+    <h3>Welcome {{ user.username }}!</h3>
+    <a href="{% url 'logout' %}">Logout?</a>
+</div>
+
+{% else %}
+<div class="alert alert-success" role="alert">
+    <h3>Welcome!</h3>
+    <a href="{% url 'register' %}">Signup</a>
+    <a href="{% url 'login' %}">Login</a>
+</div>
+{% endif %}
+
+   {% for message in messages%}
+   <h1>{{message}}</h1>
+   {%endfor%}
+
+    {% for post in posts %}
+        <div class="card my-3 post-box">
+            <h5 class="card-header">{{post.rank}}</h5>
+            <div class="card-body">
+                <p class="card-text">{{post.star_cast}}</p>
+              
+            </div>
+        </div>
+        
+        <a href="{% url 'watchlist_add' 5  %}" role="button" class="btn btn-outline-success btn-lg">Add to Watchlist</a>
+        {% endfor %}
+
+        <h6 > nice</h6>
+        <a href="{% url 'getwatchlist'  %}" role="button" class="btn btn-outline-success btn-lg">see my  Watchlist</a>
+        {% for p in watch %}
+        <div class="card my-3 post-box">
+            <h5 class="card-header">{{p}}</h5>
+            <div class="card-body">
+                <h3>hiiii</h3>
+                
+            </div>
+        </div>
+        {% endfor %}
+       
+
+    <div class = "titleRow">
+        <h1 class="movietitle">Fight Club</h1>  <div class="rating"> 10/10 
+             <!-- <img src="img/star-clipart.png" width="20" height="20" alt="">  -->
+            </div>
+    </div>
+    <!-- <img src="img/poster.jpeg" width="400" height="500" alt=""> -->
+    
+    <div class = "Trivia">
+        <div class = "row"> <b>Language:</b> <i>English</i> <b>Year:</b> <i>1999</i> <b>Duration</b> <i>2 hrs</i></div>
+        <div class="leftTrivia">
+            <h2><b>Cast:</b></h2>
+                <p>
+                   {{ post.year}}
+                </p>
+            <h2><b>Genre:</b></h2>
+                <p class = "Genre">
+                    Psychological drama
+                </p>
+            <h2><b>Plot</b></h2>
+                <p>
+                    Unhappy with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman.
+                    Soon, their venture spirals down into something sinister.
+                </p>
+        </div>
+        <div class = "rightTrivia">
+            <h2><b>Review:</b></h2>
+                <p>
+                    Mind boggling movie.... and that twist is something noone will ever see coming!!!.
+                </p>
+            
+            <h2><b>Platform:</b></h2>
+                <p>
+                    Amazon prime.
+                </p>
+        </div>
+      
+    </div>
+   
+    
+</body>
+</html>
