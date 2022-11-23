@@ -1,0 +1,23 @@
+.container-fluid{
+    background-color: rgb(35, 35, 114);
+    color: white;
+    height: 1000px;
+ }
+
+ #login , #signup{
+    color: white;
+    font-size: x-large;
+ }
+
+ #website_title{
+    text-shadow: 2px 2px whitesmoke;
+    
+}
+
+#intro1, #intro2 , #intro3{
+    background-color: black;
+    font-size: xx-large;
+}
+
+
+  
