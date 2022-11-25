@@ -4,12 +4,19 @@
 **Tech Stack used:**
 
 Django
+
 Python
+
 SqQLite
+
 HTML
+
 CSS
+
 Bootstrap
+
 JavaScript
+
 Rapid API
 
 **User Functions:**
