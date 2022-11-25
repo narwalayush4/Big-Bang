@@ -1,2 +1,0 @@
-# Big-Bang
-SSL Project
