@@ -2,6 +2,7 @@
 ## Website-FILMTHUSIASTS
 ## SSL Project
 **Tech Stack used:**
+
 Django
 Python
 SqQLite
@@ -10,11 +11,13 @@ CSS
 Bootstrap
 JavaScript
 Rapid API
+
 **User Functions:**
 Search for movies with similar movie suggestions
 Add a movie to the already watched list
 Add a movie to the to be watched list
-Add a movie to the liked list
+Add a movie to the liked list.
+
  **Step 1: Fetch movie details
 Details of about 850 movies including:**
 Ratings (from all platforms)
