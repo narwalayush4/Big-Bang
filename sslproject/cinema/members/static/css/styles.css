@@ -1,0 +1,22 @@
+/* Applying the custom margin and padding setting to all the elements until they are overriden by applying something specific to them */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Adjusting the carousel image to be of appropriate size */
+.carousel-item img {
+  width: 80% !important;
+  height: 84vh;
+  margin: auto;
+  object-fit: cover;
+  object-position: 10px -140px;  
+  
+}
+
+
+.form-check {
+  margin: 30px;
+}
+

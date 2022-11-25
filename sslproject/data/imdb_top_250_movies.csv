@@ -1,0 +1,1000 @@
+id,movie_title,rating,year,rank,star_cast,newtitle
+1,The Shawshank Redemption,9.234909278,1994,1,Frank Darabont (dir.); Tim Robbins; Morgan Freeman,KGF Chapter 2
+2,The Godfather,9.156245815,1972,2,Francis Ford Coppola (dir.); Marlon Brando; Al Pacino,Dangal
+3,The Dark Knight,8.988740775,2008,3,Christopher Nolan (dir.); Christian Bale; Heath Ledger,Sanju
+4,The Godfather Part II,8.984204235,1974,4,Francis Ford Coppola (dir.); Al Pacino; Robert De Niro,PK
+5,12 Angry Men,8.950411064,1957,5,Sidney Lumet (dir.); Henry Fonda; Lee J. Cobb,Tiger Zinda Hai
+6,Schindler's List,8.937518026,1993,6,Steven Spielberg (dir.); Liam Neeson; Ralph Fiennes,Bajrangi Bhaijaan
+7,The Lord of the Rings: The Return of the King,8.927538515,2003,7,Peter Jackson (dir.); Elijah Wood; Viggo Mortensen,War
+8,Pulp Fiction,8.848576771,1994,8,Quentin Tarantino (dir.); John Travolta; Uma Thurman,Padmaavat
+9,The Lord of the Rings: The Fellowship of the Ring,8.807800701,2001,9,Peter Jackson (dir.); Elijah Wood; Ian McKellen,Sultan
+10, Il buono; il brutto; il cattivo,8.791309559,1966,10,Sergio Leone (dir.); Clint Eastwood; Eli Wallach,Kabir Singh
+11,Forrest Gump,8.767629109,1994,11,Robert Zemeckis (dir.); Tom Hanks; Robin Wright,Tanhaji: The Unsung Warrior
+12,Fight Club,8.748816324,1999,12,David Fincher (dir.); Brad Pitt; Edward Norton,Dhoom 3
+13,Inception,8.73323468,2010,13,Christopher Nolan (dir.); Leonardo DiCaprio; Joseph Gordon-Levitt,RRR
+14,The Lord of the Rings: The Two Towers,8.732878234,2002,14,Peter Jackson (dir.); Elijah Wood; Ian McKellen,The Kashmir Files
+15,The Empire Strikes Back,8.700027304,1980,15,Irvin Kershner (dir.); Mark Hamill; Harrison Ford,Brahmastra Part One: Shiva
+16,The Matrix,8.669798263,1999,16,Lana Wachowski (dir.); Keanu Reeves; Laurence Fishburne,URI The Surgical Strike
+17,Goodfellas,8.652047851,1990,17,Martin Scorsese (dir.); Robert De Niro; Ray Liotta,Simmba
+18,One Flew Over the Cuckoo's Nest,8.63962185,1975,18,Milos Forman (dir.); Jack Nicholson; Louise Fletcher,Kick
+19,Se7en,8.604249647,1995,19,David Fincher (dir.); Morgan Freeman; Brad Pitt,Krrish 3
+20,Shichinin no samurai,8.59908872,1954,20,Akira Kurosawa (dir.); Toshirô Mifune; Takashi Shimura,Chennai Express
+21,It's a Wonderful Life,8.595611115,1946,21,Frank Capra (dir.); James Stewart; Donna Reed,Bharat
+22,The Silence of the Lambs,8.58811871,1991,22,Jonathan Demme (dir.); Jodie Foster; Anthony Hopkins,Housefull 4
+23,Cidade de Deus,8.579576524,2002,23,Fernando Meirelles (dir.); Alexandre Rodrigues; Leandro Firmino,Prem Ratan Dhan Payo
+24,Saving Private Ryan,8.578590272,1998,24,Steven Spielberg (dir.); Tom Hanks; Matt Damon,Golmaal Again
+25,La vita è bella,8.567321946,1997,25,Roberto Benigni (dir.); Roberto Benigni; Nicoletta Braschi,Good Newwz
+26,Interstellar,8.563113819,2014,26,Christopher Nolan (dir.); Matthew McConaughey; Anne Hathaway,Mission Mangal
+27,The Green Mile,8.561680627,1999,27,Frank Darabont (dir.); Tom Hanks; Michael Clarke Duncan,3 Idiots
+28,Star Wars,8.550972291,1977,28,George Lucas (dir.); Mark Hamill; Harrison Ford,Happy New Year
+29,Terminator 2: Judgment Day,8.536055017,1991,29,James Cameron (dir.); Arnold Schwarzenegger; Linda Hamilton,Ek Tha Tiger
+30,Back to the Future,8.517634117,1985,30,Robert Zemeckis (dir.); Michael J. Fox; Christopher Lloyd,Sooryavanshi
+31,Sen to Chihiro no kamikakushi,8.515997504,2001,31,Hayao Miyazaki (dir.); Daveigh Chase; Suzanne Pleshette,2
+32,Psycho,8.508135041,1960,32,Alfred Hitchcock (dir.); Anthony Perkins; Janet Leigh,Yeh Jawaani Hai Deewani
+33,The Pianist,8.506179207,2002,33,Roman Polanski (dir.); Adrien Brody; Thomas Kretschmann,Bhool Bhulaiyaa 2
+34,Gisaengchung,8.497590569,2019,34,Bong Joon Ho (dir.); Song Kang-ho; Lee Sun-kyun,Bajirao Mastani
+35,Léon,8.496704658,1994,35,Luc Besson (dir.); Jean Reno; Gary Oldman,Bang Bang!
+36,The Lion King,8.488307168,1994,36,Roger Allers (dir.); Matthew Broderick; Jeremy Irons,Race 3
+37,Gladiator,8.486139843,2000,37,Ridley Scott (dir.); Russell Crowe; Joaquin Phoenix,Baaghi 2
+38,American History X,8.483025879,1998,38,Tony Kaye (dir.); Edward Norton; Edward Furlong,Raees
+39,The Departed,8.475413003,2006,39,Martin Scorsese (dir.); Leonardo DiCaprio; Matt Damon,Kesari
+40,The Usual Suspects,8.472938584,1995,40,Bryan Singer (dir.); Kevin Spacey; Gabriel Byrne,Total Dhamaal
+41,The Prestige,8.468730711,2006,41,Christopher Nolan (dir.); Christian Bale; Hugh Jackman,Dabangg 2
+42,Whiplash,8.464222906,2014,42,Damien Chazelle (dir.); Miles Teller; J.K. Simmons,Chhichhore
+43,Casablanca,8.463494449,1942,43,Michael Curtiz (dir.); Humphrey Bogart; Ingrid Bergman,Tanu Weds Manu Returns
+44,The Intouchables,8.453904444,2011,44,Olivier Nakache (dir.); François Cluzet; Omar Sy,Bodyguard
+45,Seppuku,8.452632086,1962,45,Masaki Kobayashi (dir.); Tatsuya Nakadai; Akira Ishihama,Dilwale
+46,Hotaru no haka,8.452419083,1988,46,Isao Takahata (dir.); Tsutomu Tatsumi; Ayano Shiraishi,Super 30
+47,Modern Times,8.448906299,1936,47,Charles Chaplin (dir.); Charles Chaplin; Paulette Goddard,Dabangg 3
+48,Once Upon a Time in the West,8.44552271,1968,48,Sergio Leone (dir.); Henry Fonda; Charles Bronson,Saaho
+49,Rear Window,8.436544188,1954,49,Alfred Hitchcock (dir.); James Stewart; Grace Kelly,Thugs Of Hindostan
+50,Alien,8.434200994,1979,50,Ridley Scott (dir.); Sigourney Weaver; Tom Skerritt,Dream Girl
+51,City Lights,8.433931688,1931,51,Charles Chaplin (dir.); Charles Chaplin; Virginia Cherrill,Singham Returns
+52,Nuovo Cinema Paradiso,8.432423758,1988,52,Giuseppe Tornatore (dir.); Philippe Noiret; Enzo Cannavale,Dabangg
+53,Apocalypse Now,8.424350526,1979,53,Francis Ford Coppola (dir.); Martin Sheen; Marlon Brando,Gully Boy
+54,Memento,8.422960787,2000,54,Christopher Nolan (dir.); Guy Pearce; Carrie-Anne Moss,Judwaa 2
+55,Raiders of the Lost Ark,8.408738265,1981,55,Steven Spielberg (dir.); Harrison Ford; Karen Allen,Badhaai Ho
+56,Django Unchained,8.405738416,2012,56,Quentin Tarantino (dir.); Jamie Foxx; Christoph Waltz,Toilet Ek Prem Katha
+57,WALL·E,8.393928318,2008,57,Andrew Stanton (dir.); Ben Burtt; Elissa Knight,Rowdy Rathore
+58,The Lives of Others,8.38527004,2006,58,Florian Henckel von Donnersmarck (dir.); Ulrich Mühe; Martina Gedeck,M.S. Dhoni: The Untold Story
+59,Sunset Blvd,8.381473827,1950,59,Billy Wilder (dir.); William Holden; Gloria Swanson,Gangubai Kathiawadi
+60,Paths of Glory,8.372197409,1957,60,Stanley Kubrick (dir.); Kirk Douglas; Ralph Meeker,Stree
+61,The Shining,8.366302848,1980,61,Stanley Kubrick (dir.); Jack Nicholson; Shelley Duvall,Airlift
+62,The Great Dictator,8.366095732,1940,62,Charles Chaplin (dir.); Charles Chaplin; Paulette Goddard,Rustom
+63,Avengers: Infinity War,8.359895493,2018,63,Anthony Russo (dir.); Robert Downey Jr.; Chris Hemsworth,Raazi
+64,Witness for the Prosecution,8.35966844,1957,64,Billy Wilder (dir.); Tyrone Power; Marlene Dietrich,Ready
+65,Aliens,8.343160502,1986,65,James Cameron (dir.); Sigourney Weaver; Michael Biehn,Jab Tak Hai Jaan
+66,American Beauty,8.334267256,1999,66,Sam Mendes (dir.); Kevin Spacey; Annette Bening,Tubelight
+67,Spider-Man: Into the Spider-Verse,8.333396745,2018,67,Bob Persichetti (dir.); Shameik Moore; Jake Johnson,Baahubali
+68,Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.330856781,1964,68,Stanley Kubrick (dir.); Peter Sellers; George C. Scott,Agneepath
+69,The Dark Knight Rises,8.327585021,2012,69,Christopher Nolan (dir.); Christian Bale; Tom Hardy,Badrinath Ki Dulhania
+70,Oldeuboi,8.320325322,2003,70,Park Chan-wook (dir.); Choi Min-sik; Yoo Ji-tae,Goliyon Ki Rasleela Ram-Leela
+71,Joker,8.316464217,2019,71,Todd Phillips (dir.); Joaquin Phoenix; Robert De Niro,Jai Ho
+72,Amadeus,8.315946625,1984,72,Milos Forman (dir.); F. Murray Abraham; Tom Hulce,Jolly LLB 2
+73,Inglourious Basterds,8.314337613,2009,73,Quentin Tarantino (dir.); Brad Pitt; Diane Kruger,Avengers End Game
+74,Coco,8.314238342,2017,74,Lee Unkrich (dir.); Anthony Gonzalez; Gael García Bernal,Bala
+75,Toy Story,8.314107311,1995,75,John Lasseter (dir.); Tom Hanks; Tim Allen,Ra.One
+76,Braveheart,8.313872037,1995,76,Mel Gibson (dir.); Mel Gibson; Sophie Marceau,Ghajini
+77,Das Boot,8.312272716,1981,77,Wolfgang Petersen (dir.); Jürgen Prochnow; Herbert Grönemeyer,Ae Dil Hai Mushkil
+78,Avengers: Endgame,8.303834999,2019,78,Anthony Russo (dir.); Robert Downey Jr.; Chris Evans,Holiday
+79,Mononoke-hime,8.303320131,1997,79,Hayao Miyazaki (dir.); Yôji Matsuda; Yuriko Ishida,Barfi!
+80,Top Gun: Maverick,8.298814243,2022,80,Joseph Kosinski (dir.); Tom Cruise; Jennifer Connelly,Housefull 2
+81,Once Upon a Time in America,8.297636885,1984,81,Sergio Leone (dir.); Robert De Niro; James Woods,Housefull 3
+82,Good Will Hunting,8.288853877,1997,82,Gus Van Sant (dir.); Robin Williams; Matt Damon,Gold
+83,Kimi no na wa,8.279600169,2016,83,Makoto Shinkai (dir.); Ryûnosuke Kamiki; Mone Kamishiraishi,Sonu Ke Titu Ki Sweety
+84,Requiem for a Dream,8.275706988,2000,84,Darren Aronofsky (dir.); Ellen Burstyn; Jared Leto,Bhaag Milkha Bhaag
+85,Toy Story 3,8.273965544,2010,85,Lee Unkrich (dir.); Tom Hanks; Tim Allen,Don 2: The Chase Continues
+86,Singin' in the Rain,8.273765752,1952,86,Stanley Donen (dir.); Gene Kelly; Donald O'Connor,Golmaal 3
+87,3 Idiots,8.273364779,2009,87,Rajkumar Hirani (dir.); Aamir Khan; Madhavan,Pushpa: The Rise (Part 1)
+88,Tengoku to jigoku,8.269102739,1963,88,Akira Kurosawa (dir.); Toshirô Mifune; Yutaka Sada,ABCD 2
+89,Star Wars: Episode VI - Return of the Jedi,8.265683103,1983,89,Richard Marquand (dir.); Mark Hamill; Harrison Ford,Ek Villain
+90,2001: A Space Odyssey,8.26377067,1968,90,Stanley Kubrick (dir.); Keir Dullea; Gary Lockwood,Son Of Sardaar
+91,Eternal Sunshine of the Spotless Mind,8.263065637,2004,91,Michel Gondry (dir.); Jim Carrey; Kate Winslet,Kaabil
+92,Capharnaüm,8.262096482,2018,92,Nadine Labaki (dir.); Zain Al Rafeea; Yordanos Shiferaw,De De Pyaar De
+93,Reservoir Dogs,8.261843983,1992,93,Quentin Tarantino (dir.); Harvey Keitel; Tim Roth,83
+94,Jagten,8.256145923,2012,94,Thomas Vinterberg (dir.); Mads Mikkelsen; Thomas Bo Larsen,Bol Bachchan
+95,Citizen Kane,8.254659324,1941,95,Orson Welles (dir.); Orson Welles; Joseph Cotten,Raid
+96,Lawrence of Arabia,8.253876264,1962,96,David Lean (dir.); Peter O'Toole; Alec Guinness,2 States
+97,M - Eine Stadt sucht einen Mörder,8.253381043,1931,97,Fritz Lang (dir.); Peter Lorre; Ellen Widmann,Grand Masti
+98,Idi i smotri,8.251352567,1985,98,Elem Klimov (dir.); Aleksey Kravchenko; Olga Mironova,Race 2
+99,North by Northwest,8.249567459,1959,99,Alfred Hitchcock (dir.); Cary Grant; Eva Marie Saint,Singham
+100, Vertigo,8.245998171,1958,100,Alfred Hitchcock (dir.); James Stewart; Kim Novak,Shivaay
+101,Le fabuleux destin d'Amélie Poulain,8.243697725,2001,101,Jean-Pierre Jeunet (dir.); Audrey Tautou; Mathieu Kassovitz,Batla House
+102,A Clockwork Orange,8.242197992,1971,102,Stanley Kubrick (dir.); Malcolm McDowell; Patrick Magee,Zero
+103,The Apartment,8.239271294,1960,103,Billy Wilder (dir.); Jack Lemmon; Shirley MacLaine,Welcome Back
+104,Double Indemnity,8.238780646,1944,104,Billy Wilder (dir.); Fred MacMurray; Barbara Stanwyck,Baaghi 3
+105,Full Metal Jacket,8.238476223,1987,105,Stanley Kubrick (dir.); Matthew Modine; R. Lee Ermey,Baby
+106,Ikiru,8.237936848,1952,106,Akira Kurosawa (dir.); Takashi Shimura; Nobuo Kaneko,Manikarnika: The Queen of Jhansi
+107,Scarface,8.23507953,1983,107,Brian De Palma (dir.); Al Pacino; Michelle Pfeiffer,Luka Chuppi
+108,Hamilton,8.234039822,2020,108,Thomas Kail (dir.); Lin-Manuel Miranda; Phillipa Soo,Raajneeti
+109,The Sting,8.22767099,1973,109,George Roy Hill (dir.); Paul Newman; Robert Redford,Talaash
+110,To Kill a Mockingbird,8.226817741,1962,110,Robert Mulligan (dir.); Gregory Peck; John Megna,Satyameva Jayate
+111,Heat,8.224702458,1995,111,Michael Mann (dir.); Al Pacino; Robert De Niro,Singh Is Bliing
+112,Up,8.224497061,2009,112,Pete Docter (dir.); Edward Asner; Jordan Nagai,Zindagi Na Milegi Dobara
+113,Incendies,8.223962996,2010,113,Denis Villeneuve (dir.); Lubna Azabal; Mélissa Désormeaux-Poulin,Badla
+114,Taxi Driver,8.223685447,1976,114,Martin Scorsese (dir.); Robert De Niro; Jodie Foster,Gabbar is Back
+115,Metropolis,8.222115971,1927,115,Fritz Lang (dir.); Brigitte Helm; Alfred Abel,Rab Ne Bana Di Jodi
+116,Jodaeiye Nader az Simin,8.221604701,2011,116,Asghar Farhadi (dir.); Payman Maadi; Leila Hatami,Kalank
+117,LA Confidential,8.221275096,1997,117,Curtis Hanson (dir.); Kevin Spacey; Russell Crowe,Pati Patni Aur Woh
+118,Snatch,8.218517511,2000,118,Guy Ritchie (dir.); Jason Statham; Brad Pitt,JugJugg Jeeyo
+119,Die Hard,8.218118861,1988,119,John McTiernan (dir.); Bruce Willis; Alan Rickman,Fan
+120,Ladri di biciclette,8.218029175,1948,120,Vittorio De Sica (dir.); Lamberto Maggiorani; Enzo Staiola,My Name Is Khan
+121,Indiana Jones and the Last Crusade,8.216896599,1989,121,Steven Spielberg (dir.); Harrison Ford; Sean Connery,Brothers
+122,1917,8.211374353,2019,122,Sam Mendes (dir.); Dean-Charles Chapman; George MacKay,Padman
+123,Taare Zameen Par,8.211313016,2007,123,Aamir Khan (dir.); Darsheel Safary; Aamir Khan,Oh My God
+124,Der Untergang,8.203704741,2004,124,Oliver Hirschbiegel (dir.); Bruno Ganz; Alexandra Maria Lara,Veere Di Wedding
+125,Per qualche dollaro in più,8.20162341,1965,125,Sergio Leone (dir.); Clint Eastwood; Lee Van Cleef,Sairat
+126,Batman Begins,8.199681174,2005,126,Christopher Nolan (dir.); Christian Bale; Michael Caine,Dhoom 2
+127,Dangal,8.199308803,2016,127,Nitesh Tiwari (dir.); Aamir Khan; Sakshi Tanwar,Kantara
+128,The Kid,8.193468706,1921,128,Charles Chaplin (dir.); Charles Chaplin; Edna Purviance,Fukrey Returns
+129,Some Like It Hot,8.191808047,1959,129,Billy Wilder (dir.); Marilyn Monroe; Tony Curtis,The Dirty Picture
+130,The Father,8.180867613,2020,130,Florian Zeller (dir.); Anthony Hopkins; Olivia Colman,Piku
+131,All About Eve,8.180513446,1950,131,Joseph L. Mankiewicz (dir.); Bette Davis; Anne Baxter,Sui Dhaaga - Made In India
+132,Green Book,8.176062829,2018,132,Peter Farrelly (dir.); Viggo Mortensen; Mahershala Ali,Vikram Vedha
+133,The Wolf of Wall Street,8.174685589,2013,133,Martin Scorsese (dir.); Leonardo DiCaprio; Jonah Hill,Gunday
+134,Judgment at Nuremberg,8.169988148,1961,134,Stanley Kramer (dir.); Spencer Tracy; Burt Lancaster,Om Shanti Om
+135,Ran,8.165239485,1985,135,Akira Kurosawa (dir.); Tatsuya Nakadai; Akira Terao,Baadshaho
+136,Casino,8.163830321,1995,136,Martin Scorsese (dir.); Robert De Niro; Sharon Stone,Aashiqui 2
+137,Pan's Labyrinth,8.162205718,2006,137,Guillermo del Toro (dir.); Ivana Baquero; Ariadna Gil,Dil Dhadakne Do
+138,Unforgiven,8.161273901,1992,138,Clint Eastwood (dir.); Clint Eastwood; Gene Hackman,Humpty Sharma Ki Dulhania
+139,There Will Be Blood,8.158188914,2007,139,Paul Thomas Anderson (dir.); Daniel Day-Lewis; Paul Dano,Gadar: Ek Prem Katha
+140,The Truman Show,8.156166399,1998,140,Peter Weir (dir.); Jim Carrey; Ed Harris,Baaghi
+141,Spider-Man: No Way Home,8.153975662,2021,141,Jon Watts (dir.); Tom Holland; Zendaya,Housefull
+142,The Sixth Sense,8.153635718,1999,142,M. Night Shyamalan (dir.); Bruce Willis; Haley Joel Osment,Neerja
+143,A Beautiful Mind,8.151923035,2001,143,Ron Howard (dir.); Russell Crowe; Ed Harris,Lage Raho Munna Bhai
+144,Yôjinbô,8.149487342,1961,144,Akira Kurosawa (dir.); Toshirô Mifune; Eijirô Tôno,Ram Setu
+145,Monty Python and the Holy Grail,8.149383642,1975,145,Terry Gilliam (dir.); Graham Chapman; John Cleese,Andhadhun
+146,Shutter Island,8.147973169,2010,146,Martin Scorsese (dir.); Leonardo DiCaprio; Emily Mortimer,Dhadak
+147,The Treasure of the Sierra Madre,8.147917992,1948,147,John Huston (dir.); Humphrey Bogart; Walter Huston,Street Dancer 3D
+148,Jurassic Park,8.145852283,1993,148,Steven Spielberg (dir.); Sam Neill; Laura Dern,Kapoor & Sons
+149,Rashômon,8.141859147,1950,149,Akira Kurosawa (dir.); Toshirô Mifune; Machiko Kyô,Hum Aapke Hain Koun..!
+150,The Great Escape,8.141487371,1963,150,John Sturges (dir.); Steve McQueen; James Garner,Entertainment
+151,Kill Bill: Vol 1,8.137938055,2003,151,Quentin Tarantino (dir.); Uma Thurman; David Carradine,Krrish
+152,No Country for Old Men,8.137336915,2007,152,Ethan Coen (dir.); Tommy Lee Jones; Javier Bardem,Cocktail
+153,Finding Nemo,8.131486691,2003,153,Andrew Stanton (dir.); Albert Brooks; Ellen DeGeneres,Student Of The Year 2
+154,The Thing,8.129796345,1982,154,John Carpenter (dir.); Kurt Russell; Wilford Brimley,Khiladi 786
+155,The Elephant Man,8.12971158,1980,155,David Lynch (dir.); Anthony Hopkins; John Hurt,Welcome
+156,Chinatown,8.12832429,1974,156,Roman Polanski (dir.); Jack Nicholson; Faye Dunaway,Dishoom
+157,Raging Bull,8.127330733,1980,157,Martin Scorsese (dir.); Robert De Niro; Cathy Moriarty,Student Of The Year
+158,Gone with the Wind,8.124448651,1939,158,Victor Fleming (dir.); Clark Gable; Vivien Leigh,Raaz 3
+159,V for Vendetta,8.124213317,2005,159,James McTeigue (dir.); Hugo Weaving; Natalie Portman,Hindi Medium
+160,Inside Out,8.122540429,2015,160,Pete Docter (dir.); Amy Poehler; Bill Hader,Kedarnath
+161,Lock; Stock and Two Smoking Barrels,8.121640291,1998,161,Guy Ritchie (dir.); Jason Flemyng; Dexter Fletcher,Dear Zindagi
+162,Dial M for Murder,8.119877143,1954,162,Alfred Hitchcock (dir.); Ray Milland; Grace Kelly,Singh Is Kinng
+163,El secreto de sus ojos,8.117584295,2009,163,Juan José Campanella (dir.); Ricardo Darín; Soledad Villamil,Chak De India
+164,Hauru no ugoku shiro,8.115670867,2004,164,Hayao Miyazaki (dir.); Chieko Baishô; Takuya Kimura,Tamasha
+165,The Bridge on the River Kwai,8.112242099,1957,165,David Lean (dir.); William Holden; Alec Guinness,Drishyam
+166,Three Billboards Outside Ebbing; Missouri,8.111785342,2017,166,Martin McDonagh (dir.); Frances McDormand; Woody Harrelson,Special 26
+167,Trainspotting,8.111034097,1996,167,Danny Boyle (dir.); Ewan McGregor; Ewen Bremner,Love Aaj Kal
+168,Warrior,8.10351798,2011,168,Gavin O'Connor (dir.); Tom Hardy; Nick Nolte,Article 15
+169,Gran Torino,8.102939399,2008,169,Clint Eastwood (dir.); Clint Eastwood; Bee Vang,R... Rajkumar
+170,Fargo,8.102484994,1996,170,Joel Coen (dir.); William H. Macy; Frances McDormand,Samrat Prithviraj
+171,Prisoners,8.100327998,2013,171,Denis Villeneuve (dir.); Hugh Jackman; Jake Gyllenhaal,Parmanu The Story Of Pokhran
+172,Tonari no Totoro,8.093741394,1988,172,Hayao Miyazaki (dir.); Hitoshi Takagi; Noriko Hidaka,Pink
+173,Million Dollar Baby,8.089356945,2004,173,Clint Eastwood (dir.); Hilary Swank; Clint Eastwood,Jab Harry Met Sejal
+174,Catch Me If You Can,8.088710603,2002,174,Steven Spielberg (dir.); Leonardo DiCaprio; Tom Hanks,Pyaar Ka Punchnama 2
+175,The Gold Rush,8.086209138,1925,175,Charles Chaplin (dir.); Charles Chaplin; Mack Swain,Ajab Prem Ki Ghazab Kahani
+176,Bacheha-Ye aseman,8.085722461,1997,176,Majid Majidi (dir.); Mohammad Amir Naji; Amir Farrokh Hashemian,Drishyam 2
+177,Blade Runner,8.085195242,1982,177,Ridley Scott (dir.); Harrison Ford; Rutger Hauer,Satyagraha
+178,On the Waterfront,8.082279953,1954,178,Elia Kazan (dir.); Marlon Brando; Karl Malden,Humshakals
+179,12 Years a Slave,8.079873254,2013,179,Steve McQueen (dir.); Chiwetel Ejiofor; Michael Kenneth Williams,Secret Superstar
+180,Before Sunrise,8.079823014,1995,180,Richard Linklater (dir.); Ethan Hawke; Julie Delpy,Taare Zameen Par
+181,The Third Man,8.079364795,1949,181,Carol Reed (dir.); Orson Welles; Joseph Cotten,Shubh Mangal Zyada Saavdhan
+182,Smultronstället,8.078523145,1957,182,Ingmar Bergman (dir.); Victor Sjöström; Bibi Andersson,Rockstar
+183,Harry Potter and the Deathly Hallows: Part 2,8.078294192,2011,183,David Yates (dir.); Daniel Radcliffe; Emma Watson,Laal Singh Chaddha
+184,Ben-Hur,8.0778269,1959,184,William Wyler (dir.); Charlton Heston; Jack Hawkins,Once Upon Ay Time In Mumbai Dobaara!
+185,The General,8.077259208,1926,185,Clyde Bruckman (dir.); Buster Keaton; Marion Mack,Tees Maar Khan
+186,Gone Girl,8.077040883,2014,186,David Fincher (dir.); Ben Affleck; Rosamund Pike,Queen
+187,The Deer Hunter,8.075137098,1978,187,Michael Cimino (dir.); Robert De Niro; Christopher Walken,Wanted
+188,The Grand Budapest Hotel,8.074514982,2014,188,Wes Anderson (dir.); Ralph Fiennes; F. Murray Abraham,Race
+189,In the Name of the Father,8.074002181,1993,189,Jim Sheridan (dir.); Daniel Day-Lewis; Pete Postlethwaite,Udta Punjab
+190,Barry Lyndon,8.073289466,1975,190,Stanley Kubrick (dir.); Ryan O'Neal; Marisa Berenson,Half Girlfriend
+191,Le salaire de la peur,8.071756249,1953,191,Henri-Georges Clouzot (dir.); Yves Montand; Charles Vanel,Befikre
+192,Sherlock Jr,8.069230873,1924,192,Buster Keaton (dir.); Buster Keaton; Kathryn McGuire,Raanjhanaa
+193,Mr Smith Goes to Washington,8.069057853,1939,193,Frank Capra (dir.); James Stewart; Jean Arthur,Partner
+194,Klaus,8.068922159,2019,194,Sergio Pablos (dir.); Jason Schwartzman; J.K. Simmons,Besharam
+195,Hacksaw Ridge,8.068885342,2016,195,Mel Gibson (dir.); Andrew Garfield; Sam Worthington,Malang
+196,Salinui chueok,8.068413553,2003,196,Bong Joon Ho (dir.); Song Kang-ho; Kim Sang-kyung,Shootout at Wadala
+197,Relatos salvajes,8.066790751,2014,197,Damián Szifron (dir.); Darío Grandinetti; María Marull,Mere Brother Ki Dulhan
+198,Det sjunde inseglet,8.065491779,1957,198,Ingmar Bergman (dir.); Max von Sydow; Gunnar Björnstrand,Mohenjo Daro
+199,Room,8.06389529,2015,199,Lenny Abrahamson (dir.); Brie Larson; Jacob Tremblay,Action Jackson
+200,Mad Max: Fury Road,8.063366828,2015,200,George Miller (dir.); Tom Hardy; Charlize Theron,Mary Kom
+201,Mary and Max,8.061787514,2009,201,Adam Elliot (dir.); Toni Collette; Philip Seymour Hoffman,Haider
+202,How to Train Your Dragon,8.061458641,2010,202,Dean DeBlois (dir.); Jay Baruchel; Gerard Butler,Jodhaa Akbar
+203,The Big Lebowski,8.060544726,1998,203,Joel Coen (dir.); Jeff Bridges; John Goodman,Mubarakan
+204,Monsters; Inc,8.059682477,2001,204,Pete Docter (dir.); Billy Crystal; John Goodman,Once Upon a Time in Mumbaai
+205,Jaws,8.059561898,1975,205,Steven Spielberg (dir.); Roy Scheider; Robert Shaw,Jaane Tu... Ya Jaane Na
+206,Tôkyô monogatari,8.056975008,1953,206,Yasujirô Ozu (dir.); Chishû Ryû; Chieko Higashiyama,Yamla Pagla Deewana
+207,La passion de Jeanne d'Arc,8.056164164,1928,207,Carl Theodor Dreyer (dir.); Maria Falconetti; Eugene Silvain,Kabhi Khushi Kabhie Gham
+208,Dead Poets Society,8.055524675,1989,208,Peter Weir (dir.); Robin Williams; Robert Sean Leonard,Boss
+209,Hotel Rwanda,8.051694703,2004,209,Terry George (dir.); Don Cheadle; Sophie Okonedo,Phantom
+210,Ford v Ferrari,8.047464667,2019,210,James Mangold (dir.); Matt Damon; Christian Bale,Jagga Jasoos
+211,Rocky,8.046533498,1976,211,John G. Avildsen (dir.); Sylvester Stallone; Talia Shire,Dilwale Dulhania Le Jayenge
+212,Platoon,8.046005289,1986,212,Oliver Stone (dir.); Charlie Sheen; Tom Berenger,Rang De Basanti
+213,Stand by Me,8.04030762,1986,213,Rob Reiner (dir.); Wil Wheaton; River Phoenix,Heropanti
+214,The Terminator,8.040172867,1984,214,James Cameron (dir.); Arnold Schwarzenegger; Linda Hamilton,Ki & Ka
+215,Pather Panchali,8.0401291,1955,215,Satyajit Ray (dir.); Kanu Bannerjee; Karuna Bannerjee,102 Not Out
+216,Spotlight,8.03998645,2015,216,Tom McCarthy (dir.); Mark Ruffalo; Michael Keaton,Fanaa
+217,Logan,8.038081493,2017,217,James Mangold (dir.); Hugh Jackman; Patrick Stewart,Hate Story 3
+218,Rush,8.037660565,2013,218,Ron Howard (dir.); Daniel Brühl; Chris Hemsworth,Delhi Belly
+219,Ratatouille,8.037293166,2007,219,Brad Bird (dir.); Brad Garrett; Lou Romano,Kahaani
+220,Network,8.036197318,1976,220,Sidney Lumet (dir.); Faye Dunaway; William Holden,Golmaal Returns
+221,Into the Wild,8.034615851,2007,221,Sean Penn (dir.); Emile Hirsch; Vince Vaughn,Main Tera Hero
+222,Everything Everywhere All at Once,8.032949231,2022,222,Dan Kwan (dir.); Michelle Yeoh; Stephanie Hsu,Sachin A Billion Dreams
+223,The Wizard of Oz,8.032434183,1939,223,Victor Fleming (dir.); Judy Garland; Frank Morgan,Sachin: A Billion Dreams
+224,Before Sunset,8.030744307,2004,224,Richard Linklater (dir.); Ethan Hawke; Julie Delpy,Bachchhan Paandey
+225,Groundhog Day,8.029173119,1993,225,Harold Ramis (dir.); Bill Murray; Andie MacDowell,Don: The Chase Begins Again
+226,The Exorcist,8.027794238,1973,226,William Friedkin (dir.); Ellen Burstyn; Max von Sydow,Badlapur
+227,Jai Bhim,8.02694458,2021,227,T.J. Gnanavel (dir.); Suriya; Lijo Mol Jose,Kis Kisko Pyaar Karoon
+228,The Best Years of Our Lives,8.025305151,1946,228,William Wyler (dir.); Myrna Loy; Dana Andrews,Spider-Man: No Way Home
+229,The Incredibles,8.025147547,2004,229,Brad Bird (dir.); Craig T. Nelson; Samuel L. Jackson,Kai Po Che!
+230,To Be or Not to Be,8.025126871,1942,230,Ernst Lubitsch (dir.); Carole Lombard; Jack Benny,Bhool Bhulaiyaa
+231,La battaglia di Algeri,8.024344366,1966,231,Gillo Pontecorvo (dir.); Brahim Hadjadj; Jean Martin,Kites
+232,Hachi: A Dog's Tale,8.022409639,2009,232,Lasse Hallström (dir.); Richard Gere; Joan Allen,Raksha Bandhan
+233,The Grapes of Wrath,8.021505604,1940,233,John Ford (dir.); Henry Fonda; Jane Darwell,De Dana Dan
+234,Rebecca,8.021292423,1940,234,Alfred Hitchcock (dir.); Laurence Olivier; Joan Fontaine,Marjaavaan
+235,Pirates of the Caribbean: The Curse of the Black Pearl,8.0211644,2003,235,Gore Verbinski (dir.); Johnny Depp; Geoffrey Rush,Murder 2
+236,Amores perros,8.021090018,2000,236,Alejandro G. Iñárritu (dir.); Emilio Echevarría; Gael García Bernal,Himmatwala
+237,Babam ve Oglum,8.020861116,2005,237,Çagan Irmak (dir.); Çetin Tekindor; Fikret Kuskan,Mardaani 2
+238,La haine,8.020584202,1995,238,Mathieu Kassovitz (dir.); Vincent Cassel; Hubert Koundé,Heyy Babyy
+239,Cool Hand Luke,8.019861757,1967,239,Stuart Rosenberg (dir.); Paul Newman; George Kennedy,Kambakkht Ishq
+240,Les quatre cents coups,8.016215165,1959,240,François Truffaut (dir.); Jean-Pierre Léaud; Albert Rémy,Koi... Mil Gaya
+241,Persona,8.01503219,1966,241,Ingmar Bergman (dir.); Bibi Andersson; Liv Ullmann,Kuch Kuch Hota Hai
+242,Ah-ga-ssi,8.013602587,2016,242,Park Chan-wook (dir.); Kim Min-hee; Ha Jung-woo,Ragini MMS 2
+243,It Happened One Night,8.013160247,1934,243,Frank Capra (dir.); Clark Gable; Claudette Colbert,Thank You
+244,The Sound of Music,8.012902112,1965,244,Robert Wise (dir.); Julie Andrews; Christopher Plummer,Shuddh Desi Romance
+245,Life of Brian,8.012370576,1979,245,Terry Jones (dir.); Graham Chapman; John Cleese,Hichki
+246,Dersu Uzala,8.008581819,1975,246,Akira Kurosawa (dir.); Maksim Munzuk; Yuriy Solomin,October
+247,The Help,8.004952236,2011,247,Tate Taylor (dir.); Viola Davis; Emma Stone,Veer
+248,Aladdin,8.004822464,1992,248,Ron Clements (dir.); Scott Weinger; Robin Williams,Ishaqzaade
+249,Gandhi,8.004811524,1982,249,Richard Attenborough (dir.); Ben Kingsley; John Gielgud,Guru
+250,The Iron Giant,8.003890274,1999,250,Brad Bird (dir.); Eli Marienthal; Harry Connick Jr.,New York
+,,,,,,Kyaa Super Kool Hai Hum
+,,,,,,Kabhi Alvida Naa Kehna
+,,,,,,No Entry
+,,,,,,Roy
+,,,,,,K.G.F : Chapter 1
+,,,,,,ABCD: Any Body Can Dance
+,,,,,,Dostana
+,,,,,,Double Dhamaal
+,,,,,,Kaho Naa... Pyaar Hai
+,,,,,,Heroine
+,,,,,,Ek Villain Returns
+,,,,,,Raja Hindustani
+,,,,,,Agent Vinod
+,,,,,,Shaandaar
+,,,,,,I Hate Luv Storys
+,,,,,,Romeo Akbar Walter
+,,,,,,Shubh Mangal Saavdhan
+,,,,,,Madras Cafe
+,,,,,,Desi Boyz
+,,,,,,Veer-Zaara
+,,,,,,Jannat 2
+,,,,,,Mohabbatein
+,,,,,,Devdas
+,,,,,,All The Best: Fun Begins
+,,,,,,Kaminey
+,,,,,,Chashme Baddoor
+,,,,,,Pagalpanti
+,,,,,,Atithi Tum Kab Jaoge?
+,,,,,,Wazir
+,,,,,,Batti Gul Meter Chalu
+,,,,,,Phir Hera Pheri
+,,,,,,Matru Ki Bijlee Ka Mandola
+,,,,,,Anjaana Anjaani
+,,,,,,Bhagam Bhag
+,,,,,,Love Aaj Kal
+,,,,,,Yaariyan
+,,,,,,Shamshera
+,,,,,,Aarakshan
+,,,,,,Antim: The Final Truth
+,,,,,,Ek Main Aur Ekk Tu
+,,,,,,Border
+,,,,,,Bhoothnath Returns
+,,,,,,Tevar
+,,,,,,Hum Saath-Saath Hain: We Stand United
+,,,,,,Kal Ho Naa Ho
+,,,,,,Khatta Meetha
+,,,,,,Blue
+,,,,,,A Flying Jatt
+,,,,,,Ta Ra Rum Pum
+,,,,,,Hasee Toh Phasee
+,,,,,,Main Hoon Na
+,,,,,,MOM
+,,,,,,Namastey London
+,,,,,,Shaadi Ke Side Effects
+,,,,,,Naam Shabana
+,,,,,,Tanu Weds Manu
+,,,,,,Bachna Ae Haseeno
+,,,,,,Phata Poster Nikla Hero
+,,,,,,Thank God
+,,,,,,Fukrey
+,,,,,,Mastizaade
+,,,,,,Bunty Aur Babli
+,,,,,,Tumhari Sulu
+,,,,,,Bullett Raja
+,,,,,,Ramaiya Vastavaiya
+,,,,,,Ghayal Once Again
+,,,,,,Force 2
+,,,,,,Mardaani
+,,,,,,Finding Fanny
+,,,,,,Runway 34
+,,,,,,Vicky Donor
+,,,,,,Badmaash Company
+,,,,,,Chhapaak
+,,,,,,Dil To Pagal Hai
+,,,,,,English Vinglish
+,,,,,,Judgementall Hai Kya
+,,,,,,Hamari Adhuri Kahani
+,,,,,,Lagaan: Once Upon a Time in India
+,,,,,,Bareilly Ki Barfi
+,,,,,,Sarkar Raj
+,,,,,,Yamla Pagla Deewana 2
+,,,,,,Panipat
+,,,,,,Hero
+,,,,,,Bell Bottom
+,,,,,,Azhar
+,,,,,,Kill Dil
+,,,,,,Dhamaal
+,,,,,,Kahaani 2
+,,,,,,Ladies vs Ricky Bahl
+,,,,,,Munna Michael
+,,,,,,Ghanchakkar
+,,,,,,Jai Gangaajal
+,,,,,,Rascals
+,,,,,,Jolly LLB
+,,,,,,NH10
+,,,,,,Soorma
+,,,,,,Commando 3
+,,,,,,Dhoom
+,,,,,,Karthikeya 2
+,,,,,,Baar Baar Dekho
+,,,,,,Vivah
+,,,,,,Patiala House
+,,,,,,Bhoot Part One
+,,,,,,Jab We Met
+,,,,,,Highway
+,,,,,,Thappad
+,,,,,,Talvar
+,,,,,,Delhi-6
+,,,,,,Raaz Reboot
+,,,,,,Peepli Live
+,,,,,,Paa
+,,,,,,Jism 2
+,,,,,,Ittefaq
+,,,,,,Dum Laga Ke Haisha
+,,,,,,Jannat
+,,,,,,Thor: Love And Thunder
+,,,,,,Golmaal: Fun Unlimited
+,,,,,,Mausam
+,,,,,,Shootout at Lokhandwala
+,,,,,,Tashan
+,,,,,,Chandni Chowk to China
+,,,,,,Mujhse Shaadi Karogi
+,,,,,,Guzaarish
+,,,,,,Action Replayy
+,,,,,,Garam Masala
+,,,,,,Lootera
+,,,,,,Dil Toh Baccha Hai Ji
+,,,,,,Ferrari Ki Sawaari
+,,,,,,Happy Bhaag Jayegi
+,,,,,,Akira
+,,,,,,Pari
+,,,,,,Players
+,,,,,,London Dreams
+,,,,,,PM Narendra Modi
+,,,,,,Doctor Strange In The Multiverse Of Madness
+,,,,,,Ishqiya
+,,,,,,Baazaar
+,,,,,,Kyaa Kool Hain Hum 3
+,,,,,,Doctor G
+,,,,,,No Problem
+,,,,,,Manmarziyaan
+,,,,,,Wake Up Sid
+,,,,,,No One Killed Jessica
+,,,,,,Mangal Pandey: The Rising
+,,,,,,Sanam Re
+,,,,,,Panga
+,,,,,,Dedh Ishqiya
+,,,,,,Sarbjit
+,,,,,,Force
+,,,,,,Jawaani Jaaneman
+,,,,,,Jhoom Barabar Jhoom
+,,,,,,Hate Story 2
+,,,,,,Detective Byomkesh Bakshy
+,,,,,,Tadap
+,,,,,,Malamaal Weekly
+,,,,,,Raja Natwarlal
+,,,,,,Singh Saab The Great
+,,,,,,Ek Paheli Leela
+,,,,,,Fashion
+,,,,,,The Hero: Love Story of a Spy
+,,,,,,Salaam Namaste
+,,,,,,Khakee
+,,,,,,Karan Arjun
+,,,,,,Karthik Calling Karthik
+,,,,,,Raabta
+,,,,,,Dhobi Ghat
+,,,,,,Biwi No.1
+,,,,,,Maine Pyaar Kyun Kiya?
+,,,,,,Ek Thi Daayan
+,,,,,,Teri Meri Kahaani
+,,,,,,Haunted 3D 2011
+,,,,,,F.A.L.T.U
+,,,,,,Raaz-The Mystery Continues 2009
+,,,,,,Daawat-E-Ishq
+,,,,,,Jazbaa
+,,,,,,Rock On!!
+,,,,,,Commando 2
+,,,,,,Rocky Handsome
+,,,,,,Gangs of Wasseypur
+,,,,,,Go Goa Gone
+,,,,,,Jaan-E-Mann
+,,,,,,Ishq
+,,,,,,Junglee
+,,,,,,Hum Dil De Chuke Sanam
+,,,,,,Sarkar
+,,,,,,Katti Batti
+,,,,,,Mr. X
+,,,,,,Khoobsurat
+,,,,,,Indian
+,,,,,,Enthiran
+,,,,,,D Day
+,,,,,,Bombay Velvet
+,,,,,,Saand Ki Aankh
+,,,,,,Bhoothnath
+,,,,,,OK Jaanu
+,,,,,,Lakshya
+,,,,,,Dil Bole Hadippa!
+,,,,,,Thackeray
+,,,,,,Dus
+,,,,,,Omkara
+,,,,,,Black
+,,,,,,Munna Bhai M.B.B.S.
+,,,,,,Ponniyin Selvan - Part 1
+,,,,,,36 China Town
+,,,,,,Mission Kashmir
+,,,,,,Salaam-e-Ishq: A Tribute to Love
+,,,,,,Pardes
+,,,,,,Billu
+,,,,,,Kismat Konnection
+,,,,,,1920 - Evil Returns
+,,,,,,Mere Baap Pehle Aap
+,,,,,,Joker
+,,,,,,Murder 3
+,,,,,,Ek Ladki Ko Dekha Toh Aisa Laga
+,,,,,,Chandigarh Kare Aashiqui
+,,,,,,Saawariya
+,,,,,,Shamitabh
+,,,,,,Hate Story 4
+,,,,,,Taal
+,,,,,,Aurangzeb
+,,,,,,Rocketry: The Nambi Effect
+,,,,,,Happy Phirr Bhag Jayegi
+,,,,,,Roohi
+,,,,,,Apne
+,,,,,,Black Adam
+,,,,,,Jurassic World: Dominion
+,,,,,,Gangs Of Wasseypur 2
+,,,,,,"Saheb, Biwi Aur Gangster Returns"
+,,,,,,Nautanki Saala
+,,,,,,Pyaar To Hona Hi Tha
+,,,,,,Heropanti 2
+,,,,,,Hum Tum
+,,,,,,Raaz
+,,,,,,Soldier
+,,,,,,Commando-A One Man Army
+,,,,,,Mulk
+,,,,,,Baghban
+,,,,,,Luck
+,,,,,,Rangoon
+,,,,,,Uunchai
+,,,,,,U Me Aur Hum
+,,,,,,A Gentleman
+,,,,,,Newton
+,,,,,,Jersey
+,,,,,,Life Partner
+,,,,,,Blackmail
+,,,,,,Rangeela
+,,,,,,Karwaan
+,,,,,,The Ghazi Attack
+,,,,,,Dil Chahta Hai
+,,,,,,Rocket Singh: Salesman of the Year
+,,,,,,Kaante
+,,,,,,Masti
+,,,,,,Waqt: The Race Against Time
+,,,,,,The Accidental Prime Minister
+,,,,,,The Sky Is Pink
+,,,,,,Kidnap
+,,,,,,Raja
+,,,,,,The Lunchbox
+,,,,,,Sunday
+,,,,,,Hulchul
+,,,,,,Tere Naal Love Ho Gaya
+,,,,,,Badhaai Do
+,,,,,,Taxi No. 9211
+,,,,,,Krazzy 4
+,,,,,,Chance Pe Dance
+,,,,,,Agni Sakshi
+,,,,,,Radhe Shyam
+,,,,,,Ungli
+,,,,,,Fitoor
+,,,,,,Chalte Chalte
+,,,,,,Alone
+,,,,,,Lipstick Under My Burkha
+,,,,,,Te3n
+,,,,,,Dolly Ki Doli
+,,,,,,Bade Miyan Chote Miyan
+,,,,,,Barsaat
+,,,,,,Kaal
+,,,,,,Dulhan Hum Le Jayenge
+,,,,,,Jabariya Jodi
+,,,,,,Hum Kisise Kum Nahin
+,,,,,,Sarfarosh
+,,,,,,Jodi No.1
+,,,,,,Liger
+,,,,,,Black Panther: Wakanda Forever
+,,,,,,Chori Chori Chupke Chupke
+,,,,,,Madaari
+,,,,,,Ziddi
+,,,,,,Bluffmaster!
+,,,,,,Gupt: The Hidden Truth
+,,,,,,Pyaar Kiya To Darna Kya
+,,,,,,Jayeshbhai Jordaar
+,,,,,,Begum Jaan
+,,,,,,Josh
+,,,,,,Fool n Final
+,,,,,,Main Prem Ki Diwani Hoon
+,,,,,,Creature
+,,,,,,Break Ke Baad
+,,,,,,Aankhen
+,,,,,,7 Khoon Maaf
+,,,,,,Qayamat: City Under Threat
+,,,,,,Attack - Part 1
+,,,,,,Laaga Chunari Mein Daag
+,,,,,,Simran
+,,,,,,Baabul
+,,,,,,Mujhe Kucch Kehna Hai
+,,,,,,Cheeni Kum
+,,,,,,Band Baaja Baaraat
+,,,,,,Ajnabee
+,,,,,,Aiyaary
+,,,,,,Refugee
+,,,,,,Bombay Talkies
+,,,,,,Hero No. 1
+,,,,,,Section 375
+,,,,,,Bewafaa
+,,,,,,Hum Aapke Dil Mein Rehte Hain
+,,,,,,Qarib Qarib Singlle
+,,,,,,Yuvvraaj
+,,,,,,Do Knot Disturb
+,,,,,,Parineeta
+,,,,,,Mumbai Saga
+,,,,,,Jeet
+,,,,,,Humraaz
+,,,,,,The Tashkent Files
+,,,,,,Awara Paagal Deewana
+,,,,,,Kachche Dhaage
+,,,,,,Swades
+,,,,,,1921
+,,,,,,Andaaz
+,,,,,,All Is Well
+,,,,,,Dhol
+,,,,,,Zilla Ghaziabad
+,,,,,,Lajja
+,,,,,,Life in a Metro
+,,,,,,Aitraaz
+,,,,,,Kyaa Kool Hai Hum
+,,,,,,Sholay
+,,,,,,1920 London
+,,,,,,8 x 10 Tasveer
+,,,,,,Apaharan
+,,,,,,Tezz
+,,,,,,Har Dil Jo Pyar Karega
+,,,,,,Badal
+,,,,,,Deewane Huye Paagal
+,,,,,,Tere Naam
+,,,,,,Dev.D
+,,,,,,Saathiya
+,,,,,,Ghatak
+,,,,,,Mela
+,,,,,,Zanjeer
+,,,,,,Haseena Maan Jaayegi
+,,,,,,Saala Khadoos
+,,,,,,Murder
+,,,,,,Baadshah
+,,,,,,Koyla
+,,,,,,Jhund
+,,,,,,Freaky Ali
+,,,,,,Hamara Dil Aapke Paas Hai
+,,,,,,Fiza
+,,,,,,Gulaab Gang
+,,,,,,Khiladiyon Ka Khiladi
+,,,,,,Maine Pyar Kiya
+,,,,,,Bhoot
+,,,,,,Apna Sapna Money Money
+,,,,,,Humko Deewana Kar Gaye
+,,,,,,Satyameva Jayate 2
+,,,,,,Yuva
+,,,,,,Satya
+,,,,,,Teraa Surroor
+,,,,,,Dhadkan
+,,,,,,Hindustan Ki Kasam
+,,,,,,Bewakoofiyaan
+,,,,,,Judaai
+,,,,,,Bandit Queen
+,,,,,,Hum Tumhare Hain Sanam
+,,,,,,Khamoshiyan: Silences Have Secrets
+,,,,,,Dhan Dhana Dhan Goal
+,,,,,,Great Grand Masti
+,,,,,,Saajan Chale Sasural
+,,,,,,Company
+,,,,,,Chup Chup Ke
+,,,,,,Aankhen
+,,,,,,Deewana Mastana
+,,,,,,Hunterrr
+,,,,,,Hate Story
+,,,,,,Babumoshai Bandookbaaz
+,,,,,,Ghulam
+,,,,,,India's Most Wanted
+,,,,,,Bbuddah...Hoga Terra Baap
+,,,,,,Maa Tujhhe Salaam
+,,,,,,Judwaa
+,,,,,,Paheli
+,,,,,,Shaadi Mein Zaroor Aana
+,,,,,,Major Saab
+,,,,,,Major
+,,,,,,Ujda Chaman
+,,,,,,Khuda Haafiz Chapter II
+,,,,,,Phone Bhoot
+,,,,,,Mujhse Dosti Karoge!
+,,,,,,China Gate
+,,,,,,Halla Bol
+,,,,,,Dulhe Raja
+,,,,,,Kyon Ki
+,,,,,,Gangster
+,,,,,,Coolie No. 1
+,,,,,,Manjhi - The Mountain Man
+,,,,,,God Tussi Great Ho
+,,,,,,Heroes
+,,,,,,Hungama
+,,,,,,Hera Pheri
+,,,,,,Made In China
+,,,,,,Mere Dad Ki Maruti
+,,,,,,Kya Kehna
+,,,,,,Mohra
+,,,,,,Khalnayak
+,,,,,,Bandhan
+,,,,,,Bunty Aur Babli 2
+,,,,,,Paan Singh Tomar
+,,,,,,Yamla Pagla Deewana Phir Se
+,,,,,,Fanney Khan
+,,,,,,Pyare Mohan
+,,,,,,Chup
+,,,,,,Ek Aur Ek Gyarah
+,,,,,,Ab Tumhare Hawale Watan Saathiyo
+,,,,,,Bobby Jasoos
+,,,,,,Chal Mere Bhai
+,,,,,,Beta
+,,,,,,A Wednesday!
+,,,,,,Loveyatri
+,,,,,,Asoka
+,,,,,,Arjun Pandit
+,,,,,,Deewangee
+,,,,,,Vaastav: The Reality
+,,,,,,Chachi 420
+,,,,,,Poster Boys
+,,,,,,Daag: The Fire
+,,,,,,Virasat
+,,,,,,Lucknow Central
+,,,,,,Yes Boss
+,,,,,,Hadh Kar Di Aapne
+,,,,,,Vikrant Rona
+,,,,,,Sye Raa Narasimha Reddy
+,,,,,,Kurukshetra
+,,,,,,Why Cheat India
+,,,,,,Darr
+,,,,,,Zameen
+,,,,,,Jaani Dushman: Ek Anokhi Kahani
+,,,,,,Jhootha Hi Sahi
+,,,,,,Table No. 21
+,,,,,,Guest iin London
+,,,,,,Jaanwar
+,,,,,,Dil Se..
+,,,,,,Kunwara
+,,,,,,Phir Bhi Dil Hai Hindustani
+,,,,,,Nayak: The Real Hero
+,,,,,,Tumko Na Bhool Paayenge
+,,,,,,Rock On 2
+,,,,,,Bichhoo
+,,,,,,Hello Brother
+,,,,,,Mirzya
+,,,,,,Gangaajal
+,,,,,,Wajah Tum Ho
+,,,,,,Albela
+,,,,,,Mukkabaaz
+,,,,,,Bhoomi (film)
+,,,,,,1920
+,,,,,,Paltan
+,,,,,,Revolver Rani
+,,,,,,Bheja Fry 2
+,,,,,,Vikram
+,,,,,,Firangi
+,,,,,,Angrezi Medium
+,,,,,,Saheb Biwi Aur Gangster
+,,,,,,Tumbbad
+,,,,,,Pataakha
+,,,,,,Anari No.1
+,,,,,,Hogi Pyaar Ki Jeet
+,,,,,,Shaadi Se Pehle
+,,,,,,Fida
+,,,,,,Tera Jadoo Chal Gayaa
+,,,,,,Ragini MMS
+,,,,,,Love Sex aur Dhokha
+,,,,,,Jaan
+,,,,,,Phoonk
+,,,,,,Welcome to Sajjanpur
+,,,,,,Sabse Bada Khiladi
+,,,,,,Saajan
+,,,,,,Aap Mujhe Achche Lagne Lage
+,,,,,,Mr. and Mrs. Khiladi
+,,,,,,Aan: Men at Work
+,,,,,,Aksar 2
+,,,,,,Krantiveer
+,,,,,,Sanam Teri Kasam
+,,,,,,Diljale
+,,,,,,Ajay
+,,,,,,Anek
+,,,,,,Julie
+,,,,,,Namaste England
+,,,,,,Pyar ka Punchnama
+,,,,,,Pal Pal Dil Ke Paas
+,,,,,,Drona
+,,,,,,Haan Maine Bhi Pyaar Kiya
+,,,,,,Bhai
+,,,,,,International Khiladi
+,,,,,,HIT � The First Case
+,,,,,,Dil Kya Kare
+,,,,,,Banjo
+,,,,,,Bheja Fry
+,,,,,,Tujhe Meri Kasam
+,,,,,,Arjun Patiala
+,,,,,,Guddu Rangeela
+,,,,,,Dosti: Friends Forever
+,,,,,,Luv Shuv Tey Chicken Khurana
+,,,,,,Ghayal
+,,,,,,Saudagar
+,,,,,,Godfather
+,,,,,,Ram Jaane 1995
+,,,,,,Trimurti
+,,,,,,Khoobsurat
+,,,,,,Aksar
+,,,,,,Dhaai Akshar Prem Ke
+,,,,,,Shikara
+,,,,,,Rashtra Kavach: OM
+,,,,,,Sita Ramam
+,,,,,,B.A. Pass
+,,,,,,Mere Yaar Ki Shaadi Hai
+,,,,,,Welcome 2 Karachi
+,,,,,,Daddy
+,,,,,,Mard
+,,,,,,Raja Babu
+,,,,,,Haseena Parkar
+,,,,,,Jism
+,,,,,,Tango Charlie
+,,,,,,Main Khiladi Tu Anari
+,,,,,,Talaash: The Hunt Begins...
+,,,,,,Ram Gopal Varma Ki Aag
+,,,,,,Kyo Kii Main Jhuth Nahin Bolta
+,,,,,,Eternals
+,,,,,,Ishq Vishk
+,,,,,,Yeh Raaste Hain Pyaar Ke
+,,,,,,Prem Granth
+,,,,,,Tere Mere Sapne
+,,,,,,Dus Kahaniyaan
+,,,,,,Kaalakaandi
+,,,,,,One Two Three
+,,,,,,Kya Yehi Pyaar Hai
+,,,,,,777 Charlie
+,,,,,,Joru Ka Ghulam
+,,,,,,Jis Desh Mein Ganga Rehta Hain
+,,,,,,Road
+,,,,,,Bank Chor
+,,,,,,The Legend of Bhagat Singh
+,,,,,,Baazigar
+,,,,,,Main Aurr Mrs Khanna
+,,,,,,Zeher
+,,,,,,Deewana
+,,,,,,Amar Akbar Anthony
+,,,,,,Godzilla vs. Kong
+,,,,,,Shang-Chi and the Legend of the Ten Rings
+,,,,,,Aap Ki Khatir
+,,,,,,Raman Raghav 2.0
+,,,,,,Jaal: The Trap
+,,,,,,Dil
+,,,,,,Knock Out
+,,,,,,Laadla
+,,,,,,Kalyug
+,,,,,,Chocolate
+,,,,,,Akele Hum Akele Tum
+,,,,,,Suhaag
+,,,,,,Khamoshi: The Musical
+,,,,,,Venom: Let There Be Carnage
+,,,,,,Goodbye
+,,,,,,Prassthanam
+,,,,,,Sapoot
+,,,,,,Jeena Sirf Merre Liye
+,,,,,,Deewane
+,,,,,,Armaan
+,,,,,,Dil Ne Jise Apna Kahaa
+,,,,,,Sonchiriya
+,,,,,,Kahin Pyaar Na Ho Jaaye
+,,,,,,Sooryavansham
+,,,,,,Bhaiaji Superhit
+,,,,,,Daraar
+,,,,,,Army
+,,,,,,Vijaypath
+,,,,,,Blank
+,,,,,,Chef
+,,,,,,Calendar Girls
+,,,,,,Dilwale
+,,,,,,Maharaja
+,,,,,,Tezaab
+,,,,,,Haqeeqat
+,,,,,,Damini � Lightning
+,,,,,,Phool Aur Kaante
+,,,,,,Sadak
+,,,,,,Yeh Dil Aashiqanaa
+,,,,,,Pyaar Impossible!
+,,,,,,Genius
+,,,,,,Sangharsh
+,,,,,,Jung
+,,,,,,Rudraksh
+,,,,,,Khiladi 420
+,,,,,,Do Lafzon Ki Kahani
+,,,,,,Vaah! Life Ho Toh Aisi!
+,,,,,,Hulchul
+,,,,,,Insaniyat
+,,,,,,Anari
+,,,,,,Aarzoo
+,,,,,,Noor
+,,,,,,Stanley Ka Dabba
+,,,,,,Masoom
+,,,,,,Yeh Dillagi
+,,,,,,Aflatoon
+,,,,,,Bobby
+,,,,,,Mr. India
+,,,,,,Mughal-e-Azam
+,,,,,,Dil Ka Rishta
+,,,,,,Rehnaa Hai Terre Dil Mein
+,,,,,,Bewafa Sanam
+,,,,,,Yeh Hai Jalwa
+,,,,,,Sirf Tum
+,,,,,,Khichdi: The Movie
+,,,,,,Bangistan
+,,,,,,Style
+,,,,,,Aunty No. 1
+,,,,,,Hum Hain Rahi Pyar Ke
+,,,,,,Roti Kapda Aur Makaan
+,,,,,,Lahu Ke Do Rang
+,,,,,,Andaz Apna Apna
+,,,,,,Kyaa Dil Ne Kahaa
+,,,,,,Ravan Raaj: A True Story
+,,,,,,Baazi
+,,,,,,Notebook
+,,,,,,Indu Sarkar
+,,,,,,Game Over
+,,,,,,Nil Battey Sannata
+,,,,,,The Zoya Factor
+,,,,,,Dobaaraa
+,,,,,,Zamana Deewana
+,,,,,,Elaan
+,,,,,,Tutak Tutak Tutiya
+,,,,,,Helicopter Eela
+,,,,,,Bol Radha Bol
+,,,,,,Tum Bin 2
+,,,,,,Khuddar
+,,,,,,Tum Bin - Love Will Find a Way
+,,,,,,Taarzan: The Wonder Car
+,,,,,,Junooniyat
+,,,,,,Khiladi
+,,,,,,Mother India
+,,,,,,Sanam Bewafa
+,,,,,,Chandni Bar
+,,,,,,Maidan-E-Jung
+,,,,,,Dil Hai Ke Manta Nahin
+,,,,,,Dhaakad
+,,,,,,Nanu Ki Jaanu
+,,,,,,Jo Jeeta Wohi Sikander
+,,,,,,No Time To Die
+,,,,,,Sangam
+,,,,,,Zamane Se Kya Darna
+,,,,,,Kaanchi...
+,,,,,,Janhit Mein Jaari
+,,,,,,Kabhi Haan Kabhi Naa
+,,,,,,Traffic
+,,,,,,Darbar
+,,,,,,Insaaf
+,,,,,,Jayantabhai Ki Luv Story
+,,,,,,Mitron
+,,,,,,Don
+,,,,,,Fareb
+,,,,,,Masaan
+,,,,,,Gunga Jumna
+,,,,,,Haathi Mere Saathi
+,,,,,,Suraj Pe Mangal Bhari
+,,,,,,Aashiqui
+,,,,,,Dhokha: Round D Corner
+,,,,,,Jalebi
+,,,,,,Disco Dancer
+,,,,,,Seeta Aur Geeta
+,,,,,,Chehre
+,,,,,,Laal Kaptaan
+,,,,,,Udaan
+,,,,,,Kuch Kuch Locha Hai
+,,,,,,Kaafila
+,,,,,,Buddha Mar Gaya
+,,,,,,One Night Stand
+,,,,,,Zaalim
+,,,,,,Chori Chori
+,,,,,,Pihu
+,,,,,,Zanjeer
+,,,,,,Waqt
+,,,,,,The Batman
+,,,,,,Hum Hain Bemisaal
+,,,,,,Mere Mehboob
+,,,,,,Angaaray
+,,,,,,Qayamat Se Qayamat Tak
+,,,,,,Waiting
+,,,,,,Mili
+,,,,,,Malaal
+,,,,,,Laila Majnu
+,,,,,,Manto
+,,,,,,Phool Aur Paththar
+,,,,,,The Body
+,,,,,,Master
+,,,,,,Aggar
+,,,,,,Jai Kishen
+,,,,,,Phobia
+,,,,,,Mard Ko Dard Nahi Hota
+,,,,,,Aligarh
+,,,,,,Bhangra Paa Le
+,,,,,,Fantastic Beasts: The Secrets of Dumbledore
+,,,,,,Uncharted
+,,,,,,Pailwaan
+,,,,,,Mere Jeevan Saathi
+,,,,,,Shabaash Mithu
+,,,,,,Jai Mummy Di
+,,,,,,Love Sonia
+,,,,,,Top Gun: Maverick
+,,,,,,Nikamma
+,,,,,,Saugandh
+,,,,,,Akaash Vani
+,,,,,,FryDay
+,,,,,,Shree 420
+,,,,,,Tera Intezaar
+,,,,,,Madhumati
+,,,,,,Oh Darling! Yeh Hai India
+,,,,,,Behen Hogi Teri
+,,,,,,Petta
+,,,,,,Waqt Hamara Hai
+,,,,,,3 Storeys
+,,,,,,Thalaivii
+,,,,,,Motichoor Chaknachoor
+,,,,,,Valimai
+,,,,,,5 Weddings
+,,,,,,Maatr
+,,,,,,Chalk N Duster
+,,,,,,Kaamyaab
+,,,,,,Khiladi
+,,,,,,Indoo Ki Jawani
+,,,,,,Saas Bahu Aur Sensex
+,,,,,,Ramprasad Ki Tehrvi
+,,,,,,Patel Ki Punjabi Shaddi
+,,,,,,Awaara
+,,,,,,Ranbhoomi
+,,,,,,Isi Ka Naam Zindagi
+,,,,,,Photograph
+,,,,,,Aan
+,,,,,,Nagin
+,,,,,,Bees Saal Baad
