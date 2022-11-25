@@ -1,6 +1,6 @@
 # Big-Bang
-##Website-FILMTHUSIASTS
-###SSL Project
+#Website-FILMTHUSIASTS
+#SSL Project
 **Tech Stack used:**
 Django
 Python
