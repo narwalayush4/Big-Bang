@@ -1,46 +1,49 @@
 # Big-Bang
 ## Website-FILMTHUSIASTS
 ## SSL Project
+
+*Link to the first page of the website : http://127.0.0.1:8000/login/*
+
 **Tech Stack used:**
 
-Django
+- Django
 
-Python
+- Python
 
-SqQLite
+- SqQLite
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-Bootstrap
+- Bootstrap
 
-JavaScript
+- JavaScript
 
-Rapid API
+- Rapid API
 
 **User Functions:**
 
-Search for movies with similar movie suggestions
+- Search for movies with similar movie suggestions
 
-Add a movie to the already watched list
+- Add a movie to the already watched list
 
-Add a movie to the to be watched list
+- Add a movie to the to be watched list
 
-Add a movie to the liked list.
+- Add a movie to the liked list.
 
  **Step 1: Fetch movie details
 Details of about 850 movies including:**
-Ratings (from all platforms),
-plot,
-language, 
-similar movies, 
-year of release,
-duration,
-genre,
-cast,
-user reviews, 
-platform (where to watch), 
+- Ratings (from all platforms),
+- plot,
+- language, 
+- similar movies, 
+- year of release,
+- duration,
+- genre,
+- cast,
+- user reviews, 
+- platform (where to watch), 
 were fetched from websites like imdb , rotten tomatoes and metacritic . This was done using Rapid api,  the world's largest API hub, which provides us with an api key and using python . The file /data/fetch.py contains the code for the same. The data collected is stored in the file ‘imdb_final4.csv’
 
 **Step 2:**
